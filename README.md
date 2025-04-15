@@ -36,3 +36,8 @@ A simple desktop application built with **Java Swing** and **SQLite** that allow
    ### 🧑‍💻 Compile
    ```bash
    javac -cp ".;sqlite-jdbc-3.49.1.0.jar" *.java
+
+
+  java -cp ".;sqlite-jdbc-3.49.1.0.jar" StudentManagementGUI
+
+
